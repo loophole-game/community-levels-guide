@@ -15,4 +15,4 @@ Once you've finished a level, you may want to upload it to Steam Workshop so tha
 4) In the first file picker, select a json file (the level data).
 5) In the second file picker, select an image file (the preview image).
 ## Making a Custom Editor
-Although we have provided an "official" level editor ([source code here](https://github.com/loophole-game/loophole-level-editor)), the community is welcome to create their own level editors as well. If you are a developer who is interested in this, then your editor must output a json file adhering to [this schema](https://google.com).
+Although we have provided an "official" level editor ([source code here](https://github.com/loophole-game/loophole-level-editor)), the community is welcome to create their own level editors as well. If you are a developer who is interested in this, then your editor must output a json file adhering to [this schema](./levelSchema.ts).
