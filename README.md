@@ -2,7 +2,7 @@
 If you've played Loophole and you want to create puzzles of your own, then you're in the right place.
 ## Quickstart
 To develop your own Loophole level, follow these easy steps:
-1) Open the <a href="https://loophole-game.github.io/loophole-level-editor/" target="_blank">level editor</a> in a web browser.
+1) Open the [level editor](https://loophole-game.github.io/loophole-level-editor/) in a web browser.
 2) After you've designed your level, press `Test Level` to download a json file containing the level's data.
 3) In the Loophole game, go to the `Pause Menu` > `Community Levels` > `Play Local Files`.
 4) In the file picker, choose the json file you downloaded from the editor.
