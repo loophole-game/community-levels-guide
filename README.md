@@ -1,4 +1,4 @@
-# Loophole Community Levels Instructions
+# Loophole Community Levels Guide
 If you've played Loophole and you want to create puzzles of your own, then you're in the right place.
 ## Quickstart
 To develop your own Loophole level, follow these easy steps:
