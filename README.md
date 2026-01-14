@@ -11,7 +11,7 @@ To develop your own Loophole level, follow these easy steps:
 Once you've finished a level, you may want to upload it to Steam Workshop so that others can play it.
 1) Ensure that you've added a name and description to the level.
 2) Create a preview image that will display on the Workshop page. This should be a 16:9 image in a jpg or png format. This image must be smaller than 1MB.
-3) In the Loophole game, go to the `Pause Menu` > `Community Levels` > `Upload to Workshop`.
+3) In the Loophole game, go to the `Pause Menu` > `Community Levels` > `Upload to Workshop` > `Upload New Level`.
 4) In the first file picker, select a json file (the level data).
 5) In the second file picker, select an image file (the preview image).
 ## Making a Custom Editor
